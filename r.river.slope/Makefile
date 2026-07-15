@@ -1,6 +1,5 @@
 MODULE_TOPDIR = ../..
-
-PGM=r.mscn
+PGM = r.river.slope
 
 include $(MODULE_TOPDIR)/include/Make/Script.make
 
